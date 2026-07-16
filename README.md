@@ -1,17 +1,22 @@
 # Hi, I'm Suhwr 👋
 
-> Backend developer who enjoys building scalable systems, automation, and AI-powered applications.
+> Backend Developer • Go Enthusiast • AI Explorer
 
-## 🚀 About Me
-
-- 💻 Passionate about backend development and system architecture
-- 🤖 Building WhatsApp automation, AI integrations, and web services
-- ⚡ Focused on performance, reliability, and clean code
-- 🌱 Always learning new technologies and improving existing systems
+I'm passionate about building fast, scalable, and reliable backend systems. Most of my work revolves around automation, AI integration, and modern web services.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 About Me
+
+- 💻 Backend developer from Indonesia
+- 🤖 Building AI-powered applications and automation
+- ⚙️ Love designing scalable backend architectures
+- 🚀 Interested in distributed systems and performance optimization
+- 🌱 Always learning something new
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -40,30 +45,39 @@
 
 ---
 
+## 🌐 Featured Project
+
+### Shiroine
+
+An AI-powered WhatsApp automation platform focused on performance, scalability, and modern backend architecture.
+
+🌍 **Website:** https://shiroine.web.id
+
+📚 **Documentation:** https://docs.shiroine.web.id
+
+> Most development happens in private repositories.
+
+---
+
 ## 🔭 Current Focus
 
 - Backend Engineering
 - AI Integration
 - WhatsApp Automation
-- Performance Optimization
 - Distributed Systems
-
----
-
-## 📂 Projects
-
-Most of my work is currently developed in private repositories.
-
-Public repositories mainly contain experiments, utilities, and open-source projects.
+- Performance Optimization
+- Clean Architecture
 
 ---
 
 ## 📫 Connect
 
+[![Website](https://img.shields.io/badge/Website-shiroine.web.id-2563EB?style=for-the-badge)](https://shiroine.web.id)
+[![Documentation](https://img.shields.io/badge/Documentation-docs.shiroine.web.id-0EA5E9?style=for-the-badge)](https://docs.shiroine.web.id)
 [![GitHub](https://img.shields.io/badge/GitHub-@suhwr-181717?style=for-the-badge&logo=github)](https://github.com/suhwr)
 
 ---
 
 > *"Build something useful. Optimize it. Then make it beautiful."*
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by!
