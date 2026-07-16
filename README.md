@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on **Shiroine-go** and other exciting projects
-- 💻 Passionate about coding and building innovative solutions
+- 💻 Passionate about backend development with Go, scalable system design, and open source
 - 🌱 Always learning and exploring new technologies
 - ⚡ Fun fact: I love clean code and elegant solutions
 
