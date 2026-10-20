@@ -73,6 +73,5 @@ A Go library for integrating object storage into applications through a consiste
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-shiroine.web.id-2563EB?style=for-the-badge)](https://shiroine.web.id)
-[![Documentation](https://img.shields.io/badge/Documentation-docs.shiroine.web.id-0EA5E9?style=for-the-badge)](https://docs.shiroine.web.id)
+[![Website](https://img.shields.io/badge/Website-shiroine.web.id-2563EB?style=for-the-badge)](https://shiroine.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@suhwr-181717?style=for-the-badge&logo=github)](https://github.com/suhwr)
