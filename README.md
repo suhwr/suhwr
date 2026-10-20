@@ -1,22 +1,17 @@
-# Hi, I'm Suhwr 👋
+# Hi, I'm Suhwr
 
-> Backend Developer • Go Enthusiast • AI Explorer
+> Backend Developer · Go · Open Source
 
-I'm passionate about building fast, scalable, and reliable backend systems. Most of my work revolves around automation, AI integration, and modern web services.
+I build backend systems, automation tools, and developer libraries. My main interests are Go, system performance, and building reliable software.
 
----
+## About Me
 
-## 🚀 About Me
+- Backend developer from Indonesia
+- Building and maintaining Shiroine
+- Developing BlobKit, an object storage library for Go
+- Interested in distributed systems, infrastructure, and performance optimization
 
-- 💻 Backend developer from Indonesia
-- 🤖 Building AI-powered applications and automation
-- ⚙️ Love designing scalable backend architectures
-- 🚀 Interested in distributed systems and performance optimization
-- 🌱 Always learning something new
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -30,7 +25,7 @@ I'm passionate about building fast, scalable, and reliable backend systems. Most
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Databases & Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -43,41 +38,41 @@ I'm passionate about building fast, scalable, and reliable backend systems. Most
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 🌐 Featured Project
+## Projects
 
 ### Shiroine
+**AI-powered WhatsApp Automation**
 
-An AI-powered WhatsApp automation platform focused on performance, scalability, and modern backend architecture.
+A WhatsApp automation platform built with Go, focused on message processing, AI integration, and backend performance.
 
-🌍 **Website:** https://shiroine.web.id
+- Automation and messaging workflows
+- AI-powered features
+- Backend infrastructure and performance optimization
 
-📚 **Documentation:** https://docs.shiroine.web.id
+[Website](https://shiroine.com) · [Documentation](https://docs.shiroine.com)
 
-> Most development happens in private repositories.
+### BlobKit
+**Object Storage for Go**
 
----
+A Go library for integrating object storage into applications through a consistent interface.
 
-## 🔭 Current Focus
+- Unified storage operations
+- Provider abstraction
+- Modular and extensible design
+
+[GitHub Repository](https://github.com/suhwr/blobkit)
+
+## Interests
 
 - Backend Engineering
-- AI Integration
-- WhatsApp Automation
+- Go Development
 - Distributed Systems
+- Storage Infrastructure
 - Performance Optimization
-- Clean Architecture
+- AI Integration
 
----
-
-## 📫 Connect
+## Connect
 
 [![Website](https://img.shields.io/badge/Website-shiroine.web.id-2563EB?style=for-the-badge)](https://shiroine.web.id)
 [![Documentation](https://img.shields.io/badge/Documentation-docs.shiroine.web.id-0EA5E9?style=for-the-badge)](https://docs.shiroine.web.id)
 [![GitHub](https://img.shields.io/badge/GitHub-@suhwr-181717?style=for-the-badge&logo=github)](https://github.com/suhwr)
-
----
-
-> *"Build something useful. Optimize it. Then make it beautiful."*
-
-⭐ Thanks for stopping by!
