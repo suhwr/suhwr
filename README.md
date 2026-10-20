@@ -1,6 +1,6 @@
 # Hi, I'm Suhwr
 
-> Backend Developer · Go · Open Source
+> Backend Developer · Open Source
 
 I build backend systems, automation tools, and developer libraries. My main interests are Go, system performance, and building reliable software.
 
